@@ -1,6 +1,10 @@
-https://gitlab.com/GryphM/learn-each-other/
-
 # Добро пожаловать в репозиторий проекта LearnEO!
+
+Ссылка на проект на Heroku:
+https://learn-each-other.herokuapp.com/
+
+Этот репозиторий - копия репо на gitlab, ссылка:
+https://gitlab.com/GryphM/learn-each-other/
 
 ![](main.png)
 
