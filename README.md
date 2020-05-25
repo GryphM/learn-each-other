@@ -1,3 +1,5 @@
+https://gitlab.com/GryphM/learn-each-other/
+
 # Добро пожаловать в репозиторий проекта LearnEO!
 
 ![](main.png)
